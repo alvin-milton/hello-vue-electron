@@ -1,24 +1,14 @@
 # hellovue
 
-## Project setup
+## _1_
+
 ```
+Operating system
+Mac OS 10.14.6
+
+$ node -v
+v12.22.1
+
+To run:
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+yarn start
