@@ -8,7 +8,19 @@ Mac OS 10.14.6
 
 $ node -v
 v12.22.1
+```
 
 To run:
+
+```
 yarn install
 yarn start
+```
+
+In a separate process
+```
+node server.js
+```
+
+
+
